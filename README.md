@@ -2,7 +2,7 @@
 <h1>Secret Number Game</h1>
 <p><em>A game where you must guess a random number </em></p>
 
-![last-commit](https://img.shields.io/github/last-commit/dougpsnts/Calculator?style=flat&logo=git&logoColor=white&color=0080ff) ![repo-top-language](https://img.shields.io/github/languages/top/dougpsnts/Secret-Number-Game?style=flat&color=0080ff) ![repo-language-count](https://img.shields.io/github/languages/count/dougpsnts/Secret-Number-Game?style=flat&color=0080ff)
+![last-commit](https://img.shields.io/github/last-commit/dougpsnts/Secret-Number-Game?style=flat&logo=git&logoColor=white&color=0080ff) ![repo-top-language](https://img.shields.io/github/languages/top/dougpsnts/Secret-Number-Game?style=flat&color=0080ff) ![repo-language-count](https://img.shields.io/github/languages/count/dougpsnts/Secret-Number-Game?style=flat&color=0080ff)
 
 <p><em>Built with the tools and technologies:</em></p>
 
